@@ -23,7 +23,7 @@
     "rxjs": "^6.5.3",
     "style-loader": "^1.0.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "yarn": "^1.21.1"
   },
   "devDependencies": {
